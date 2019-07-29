@@ -1,0 +1,23 @@
+.body{
+    border: 1px solid green;
+    width: 600px;
+    margin: auto;
+    height: 560px;  
+    background: whitesmoke;
+}
+.Bio{
+    border: 1px solid salmon;
+    width: 450px;
+    margin: auto;
+    background: greenyellow;
+}
+.wisman{
+    padding: 10px;
+    border-radius: 200px;
+}
+h1{
+    border: 1px solid black;
+    background: gold;
+    width: 550px;
+    border-radius: 20px;
+}
